@@ -32,7 +32,7 @@ x-api-surface: none
 x-api-surface-note: Consumer D2C superfoods CPG brand; no public API, developer portal,
   or well-known surface found. US store yoursuper.com returns HTTP 404 (decommissioned);
   live storefront is yoursuperfoods.eu (Shopify). Acquired by The Healing Company 2022.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
