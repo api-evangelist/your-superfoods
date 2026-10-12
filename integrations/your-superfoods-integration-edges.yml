@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/your-superfoods/integrations
+- https://zapier.com/apps/your-super/integrations
+- https://n8n.io/integrations/your-superfoods/
+- https://composio.dev/toolkits/your-superfoods
+- https://monid.ai/tools/your-superfoods
+checked:
+- https://composio.dev/toolkits/your-superfoods
+- https://monid.ai/tools/your-superfoods
+- https://n8n.io/integrations/your-superfoods/
+- https://zapier.com/apps/your-super/integrations
+- https://zapier.com/apps/your-superfoods/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
